@@ -1,9 +1,11 @@
 package main
 
-import "fmt"
-import "reflect"
+import (
+	"fmt"
+	"reflect"
+)
 
-func main() {
+func infer() {
 	nome := "Sérgio"
 	var idade = 21
 	var versao = 1.1

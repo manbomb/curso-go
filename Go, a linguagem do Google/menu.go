@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func menu() {
 	fmt.Println("\nOlá senhor, escolha uma opção:")
 	fmt.Println("1 - Iniciar monitoramento")
 	fmt.Println("2 - Exibir logs")

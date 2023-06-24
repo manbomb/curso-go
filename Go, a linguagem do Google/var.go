@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func aulaVar() {
 	var nome string = "Sérgio"
 	var idade int = 21
 	var versao float32 = 1.1

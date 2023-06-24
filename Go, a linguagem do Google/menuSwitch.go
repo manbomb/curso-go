@@ -14,7 +14,7 @@ import (
 
 const OK_STATUS_CODE = 200
 
-func main() {
+func MenuSwitch() {
 	exibeIntro()
 	for {
 		exibeMenu()
